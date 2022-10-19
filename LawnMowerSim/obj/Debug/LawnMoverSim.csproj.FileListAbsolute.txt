@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\LawnMoverSim\bin\Debug\LawnMoverSim.exe.config
+C:\Users\Adam\source\repos\LawnMoverSim\bin\Debug\LawnMoverSim.exe
+C:\Users\Adam\source\repos\LawnMoverSim\bin\Debug\LawnMoverSim.pdb
+C:\Users\Adam\source\repos\LawnMoverSim\obj\Debug\LawnMoverSim.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\LawnMoverSim\obj\Debug\LawnMoverSim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adam\source\repos\LawnMoverSim\obj\Debug\LawnMoverSim.LawnMoverSim.resources
+C:\Users\Adam\source\repos\LawnMoverSim\obj\Debug\LawnMoverSim.Properties.Resources.resources
+C:\Users\Adam\source\repos\LawnMoverSim\obj\Debug\LawnMoverSim.csproj.GenerateResource.cache
+C:\Users\Adam\source\repos\LawnMoverSim\obj\Debug\LawnMoverSim.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\LawnMoverSim\obj\Debug\LawnMoverSim.exe
+C:\Users\Adam\source\repos\LawnMoverSim\obj\Debug\LawnMoverSim.pdb
